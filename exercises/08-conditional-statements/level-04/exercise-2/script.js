@@ -6,3 +6,9 @@
 //     console.log("Minor");
 // }
 
+let age = 18;
+if (age >= 18) {
+    console.log("Congratuulations! you are an adult!");
+} else {
+    console.log("You are a child");
+}

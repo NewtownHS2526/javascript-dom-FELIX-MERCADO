@@ -6,3 +6,8 @@
 //     }
 // }
 
+let age = 18927;
+
+if (age >= 18) {
+    console.log("Congratulations! You have more tham 18!");
+};
