@@ -4,3 +4,6 @@
 //     return "Hello, " + name;
 // }
 
+function greet(name) {
+    return "hello" + name;
+}

@@ -4,3 +4,8 @@
 //     return "Hi!";
 // };
 
+const sayHi = (name) => {
+    return "Hello! " + name;
+};
+
+console.log(sayHi("Felix"));

@@ -4,3 +4,6 @@
 //     return "Hi!";
 // };
 
+sayHi = () => {
+    return "Hello";
+}

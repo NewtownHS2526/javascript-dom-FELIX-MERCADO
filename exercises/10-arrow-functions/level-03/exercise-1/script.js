@@ -4,3 +4,6 @@
 //     return x * 2;
 // };
 
+const double = (x) => {
+    return x * 2;
+};

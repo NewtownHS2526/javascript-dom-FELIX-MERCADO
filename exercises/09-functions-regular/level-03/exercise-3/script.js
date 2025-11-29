@@ -4,3 +4,6 @@
 //     return "Hello!";
 // }
 
+function sayHello() {
+    return "Hello!";
+}
